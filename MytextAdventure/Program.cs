@@ -10,7 +10,7 @@ namespace MytextAdventure
     {
         static void Main(string[] args)
         {
-            // my first commit in Vs 2017
+            // my first commit in VS 2017
         }
     }
 }
